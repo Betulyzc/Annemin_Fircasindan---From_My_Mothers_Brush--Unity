@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff586925305588b488f043b7e1c421bd, type: 3}
+  m_Name: MemoryData_firstPart
+  m_EditorClassIdentifier: 
+  entries:
+  - image: {fileID: 21300000, guid: 19f4f619f80db9d4ca61558c633e35a5, type: 3}
+    caption: "K\xFC\xE7\xFCk bir d\xFCnyalar\u0131 vard\u0131\u2026\nYumu\u015Fac\u0131k
+      bir kucakta ba\u015Fl\u0131yordu her \u015Fey.\nF\u0131r\xE7as\u0131n\u0131
+      sevgiye bat\u0131rm\u0131\u015F ve en de\u011Ferli varl\u0131klar\u0131n\u0131n
+      bu g\xFCzel d\xFCnyas\u0131n\u0131 resmetmeye adam\u0131\u015F kendini.."
+  - image: {fileID: 5831280440556065256, guid: 23ae8342554adb343a9b430b85d8212d, type: 3}
+    caption: "Bir kucakta ba\u015Flam\u0131\u015F hik\xE2ye, bir bak\u0131\u015Fta
+      devam etmi\u015F\u2026\nAyn\u0131 \xE7ocuklar, iki farkl\u0131 huzur i\xE7inde.
+      Mutluklar\u0131 resimlerden ta\u015F\u0131yor sevdikleriyle...\n"
+  - image: {fileID: 21300000, guid: cd4180447e9cf3e4db4b05db87604cf9, type: 3}
+    caption: "Biri ileri at\u0131lm\u0131\u015F e\u011Fleniyor huzurla,k\xFC\xE7\xFC\u011F\xFCn
+      hala arkas\u0131nda d\xFCnyas\u0131n\u0131n g\xF6lgesi\u2026\nhik\xE2yenin
+      ipi tek bir ele sar\u0131l\u0131\no, en \xE7ok g\xFCven duyduklar\u0131 sanat\xE7\u0131lar\u0131na.\n"
+  - image: {fileID: 4081070862680888206, guid: 04ecb0af0ea816a48ad8a19f4149f77f, type: 3}
+    caption: "Minik ad\u0131mlar ko\u015Fuya d\xF6n\xFC\u015Fm\xFC\u015F, kahkahalar
+      evin duvarlar\u0131na \xE7arp\u0131yor.\nHer yerde onlar, her \u015Feyde koruyucular\u0131n\u0131n
+      izleri."
+  - image: {fileID: -5604772654837395216, guid: a5f34f604103bd24bade574e3db28df9, type: 3}
+    caption: "Ko\u015Fturmacalar g\xFClmeler oldu\u011Funda, iki minik kar\u0131n
+      guruldamaya ba\u015Flarm\u0131\u015F, anne o zaman sevgisini d\xF6kermi\u015F
+      yemeklere..."
